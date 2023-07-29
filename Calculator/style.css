@@ -1,0 +1,77 @@
+body{
+    background-color: #8076a3;
+    
+}
+
+h1{
+    text-align: center;
+    color: whitesmoke;
+    font-size: 50px;
+    font-family: cursive
+}
+
+.screen{
+    background-color: grey;
+    font-size: 14px;
+    color: white;
+    border: none;
+    height: 20px;
+    padding: 20px;
+    cursor: default;
+}
+
+.operator{
+    background-color:#7c677f ;
+    color: black;
+    height: 20px;
+    padding: 27px;
+    width: 30px;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.number{
+    background-color: #f9c5bd;
+    color: black;
+    height: 20px;
+    padding: 27px;
+    width: 30px;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.decimal{
+    background-color: #7c677f;
+    color: black;
+    height: 20px;
+    padding: 27px;
+    width: 30px;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.clear{
+    background-color: tomato;
+    color: black;
+    height: 20px;
+    padding: 27px;
+    width: 30px;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.container{
+    background-color: #ff5e6c;
+    padding: 82px;
+    width: 23%;
+    display: block;
+    align-self: center;
+    margin: 100px auto;
+    border-radius: 50px;
+    
+}
+
+table{
+    width: 100%;
+}
+  
